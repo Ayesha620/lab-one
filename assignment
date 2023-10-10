@@ -1,0 +1,6 @@
+=input("enter the string:")
+b=(a[::-1])
+if a==b:
+    print("the sequence is palindrome")
+else:
+    print("the sequence is not palindrome")
